@@ -1,5 +1,7 @@
 ### BannedVideo
 ---
+https://banned.video/
+
 
 ```
 ```
